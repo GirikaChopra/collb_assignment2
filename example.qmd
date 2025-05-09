@@ -1,0 +1,11 @@
+---
+title: "ETC5513: Collaborative and Reproducible Practices"
+format: 
+  html:
+    theme: flatly
+editor: visual
+author: Girika
+date: today
+---
+
+# Working on assignment 2
